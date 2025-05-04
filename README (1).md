@@ -32,4 +32,4 @@ The vision is to build a trustless and decentralized message locker where only e
 
 ## Contract Details
 CA5XVIWABXMR7TH62AGPEMZ4ESN4POPLL46AD2UCTMT2PNZAK4675IFN
-![alt text](image.png)
+![alt text](image(1).png)
